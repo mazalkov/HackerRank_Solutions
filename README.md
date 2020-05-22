@@ -1,3 +1,6 @@
 # LeetCode-Solutions
 My solutions to LeetCode problems.
-This probably suck so please don't take them as serious responses.
+
+I have no formal Computer Science education past high school so these probably suck.
+
+Please don't take these to be serious solutions.
