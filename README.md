@@ -1,6 +1,4 @@
 # LeetCode-Solutions
-My solutions to LeetCode problems.
+My solutions to HackerRank problems.
 
-I have no formal Computer Science education past high school so these probably suck.
-
-Please don't take these to be serious solutions.
+I have no formal Computer Science education past high school so these are very inefficient.
