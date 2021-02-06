@@ -1,4 +1,5 @@
-// https://www.hackerrank.com/challenges/solve-me-first/problem
+// https://www.hackerrank.com/challenges/solve-me-first/
+
 
 #include <cmath>
 #include <cstdio>
