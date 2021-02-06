@@ -1,4 +1,5 @@
-# https://www.hackerrank.com/challenges/cpp-input-and-output/problem
+// https://www.hackerrank.com/challenges/cpp-input-and-output/
+
 
 #include <cmath>
 #include <cstdio>
