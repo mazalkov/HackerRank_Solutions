@@ -37,7 +37,7 @@ function greeting(parameterVariable) {
     console.log('Hello, World!');
 
     // Write a line of code that prints parameterVariable to stdout using console.log:
-    console.log(parameterVariable)
+    console.log(parameterVariable);
     
 }
 
